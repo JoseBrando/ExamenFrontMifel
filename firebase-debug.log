@@ -1,0 +1,21 @@
+[debug] [2024-01-05T20:54:46.172Z] ----------------------------------------------------------------------
+[debug] [2024-01-05T20:54:46.174Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\joseb\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-01-05T20:54:46.174Z] CLI Version:   13.0.2
+[debug] [2024-01-05T20:54:46.174Z] Platform:      win32
+[debug] [2024-01-05T20:54:46.175Z] Node Version:  v20.10.0
+[debug] [2024-01-05T20:54:46.175Z] Time:          Fri Jan 05 2024 14:54:46 GMT-0600 (hora estándar central)
+[debug] [2024-01-05T20:54:46.175Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-01-05T20:54:46.179Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-01-05T20:54:46.180Z] > authorizing via signed-in user (jose.brando.c.m@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\joseb\OneDrive\Documentos\Brando\Desarrollo\Code\Examen Frontend Angular\ExamenFrontendAngular
+
